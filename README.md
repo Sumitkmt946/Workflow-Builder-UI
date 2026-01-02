@@ -9,7 +9,7 @@ The application allows users to visually create and manage workflows using diffe
 
 ## 🚀 Live Demo
 👉 Add your deployed link here  
-Example: [https://your-project-name.vercel.app](https://workflow-builder-ui-one.vercel.app/)
+Example: https://workflow-builder-ui-one.vercel.app/
 
 ---
 
