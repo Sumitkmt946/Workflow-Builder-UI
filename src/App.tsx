@@ -114,7 +114,7 @@ const App: React.FC = () => {
       <footer className="app-footer">
         <p>
           Built with React & TypeScript • 
-          <a href="https://github.com/yourusername/workflow-builder" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/Sumitkmt946/Workflow-Builder-UI" target="_blank" rel="noopener noreferrer">
             View on GitHub
           </a>
         </p>
